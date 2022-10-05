@@ -18,6 +18,6 @@ Screenshots:
 ![Screenshot 2](images/ss2.jpg)
 ![Screenshot 3](images/ss3.jpg)
 
-#How To Use
+# How To Use
 - git clone https://github.com/ramdik/kumpulan-doa.git
 - flutter run
